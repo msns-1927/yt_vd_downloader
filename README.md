@@ -78,8 +78,11 @@ The application successfully downloads YouTube videos in desired resolutions. Au
 
 <img width="552" height="392" alt="Picture1" src="https://github.com/user-attachments/assets/cdf3fdf5-077a-4648-acd6-0a6ed8df1cd8" />
 
+
 <img width="446" height="261" alt="Picture2" src="https://github.com/user-attachments/assets/08424760-5c37-40a2-9ed4-3ea0d7ab0688" />
 
+
 <img width="635" height="126" alt="Picture3" src="https://github.com/user-attachments/assets/44e612b5-e8a0-45df-bd10-540f33347b35" />
+
 
 <img width="434" height="226" alt="Picture4" src="https://github.com/user-attachments/assets/6ac3c6de-9bbc-4b3f-87ea-f3b7a09d5cee" />
