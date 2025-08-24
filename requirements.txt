@@ -1,0 +1,15 @@
+# === Standard Library (ships with Python, no pip install needed) ===
+
+tkinter        # Provides GUI framework for creating windows, buttons, labels, and input fields
+subprocess     # Runs external commands (used to call yt-dlp)
+os             # Handles file paths, directories, and system operations
+filedialog     # Tkinter submodule for selecting folders or files
+messagebox     # Tkinter submodule for showing info, success, and error pop-ups
+
+# === External Python dependency (installable via pip) ===
+
+yt-dlp         # Core engine to download YouTube videos and audio
+
+# === System dependency (not Python, must be installed separately) ===
+
+ffmpeg         # Required by yt-dlp to extract audio and merge video/audio streams
