@@ -1,0 +1,59 @@
+# === Python cache / bytecode ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Virtual environments ===
+venv/
+env/
+.venv/
+
+# === IDE / Editor settings ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === OS-specific files ===
+.DS_Store
+Thumbs.db
+
+# === Logs / temp files ===
+*.log
+*.tmp
+
+# === App specific (YouTube downloads) ===
+*.mp4
+*.mkv
+*.webm
+*.mp3
+*.m4a
+*.aac
+*.opus
+
+# === Distribution / Packaging ===
+dist/
+build/
+*.spec
+*.egg-info/
+.eggs/
+*.exe          # Ignore packaged executables (PyInstaller builds)
+
+# === Testing ===
+.pytest_cache/
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+
+# === Jupyter (if used later) ===
+.ipynb_checkpoints/
+
+# === Backup / misc ===
+*.bak
+*.swp
+*.swo
+
+# === Secrets / environment variables ===
+.env            # Ignore environment variable files
